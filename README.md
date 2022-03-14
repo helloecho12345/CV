@@ -82,3 +82,4 @@ Frequently used pairing in order to problemsolve efficiently, requiring teamwork
 - Been on an archaeology dig in the Bahamas
 - Travelled throughout Europe, Asia, and US
 - Have an extensive cookbook collection
+- Photography
