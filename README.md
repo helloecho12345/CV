@@ -2,13 +2,32 @@
 
 Graduate of Makers Academy looking for a fun, fulfilling, supportive junior developer role
 
-## Projects
+### <a name="skills">Skills</a>
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **I'm a Coder, Get Me Out of Here!**            | Python-based game | Python, Pygame, Tiled, Pygame GUI |
-| **MugBook** | Facebook clone | Ruby, Ruby on Rails, PostGres, Devise, RSpec             |
+- **Quick Learner** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in Python and Pygame with no prior experience.
+- **Adaptable** - New environments, new languages, new teams, new challenges. I have worked with various levels of stakeholders from Chief Executives to nurses to admins, as well as various backgrounds from architects to research professors.
+- **Creative** - Coming from a hard science and social science background, with interests in the arts, I have learned to be creative with my problem-solving.
+- **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
+- **Attention to detail** - 
+- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
+- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
+- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+
+***
+
+
+| **** |  |              |
 | ** ** |   | Javascript, Jest             |
+
+
+### <a name="projects">Projects & Code</a>
+Project | Description | Code/Demo Links | Tech/tools |
+--- | --- | --- | --- |
+[I'm a Coder, Get Me Out of Here!][2] | Python-based game | [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Python, Pygame, Tiled, Pygame GUI |
+[MugBook][3] | A simple Facebook clone | [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Ruby on Rails, Devise, RSpec, Postgres /w ActiveRecord, HTML5, CSS |
+
+
+*All source code available on Github: [https://github.com/helloecho12345]
 
 ## Work Experience
 
