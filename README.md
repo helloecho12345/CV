@@ -16,16 +16,13 @@ Graduate of Makers Academy looking for a fun, fulfilling, supportive junior deve
 ***
 
 
-| **** |  |              |
-| ** ** |   | Javascript, Jest             |
-
 
 ### <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Tech/tools |
---- | --- | --- | --- |
-[I'm a Coder, Get Me Out of Here!][2] | Python-based game | [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Python, Pygame, Tiled, Pygame GUI |
-[MugBook][3] | A simple Facebook clone | [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Ruby on Rails, Devise, RSpec, Postgres /w ActiveRecord, HTML5, CSS |
-
+---- | --- | --- | --- |
+[I'm a Coder, Get Me Out of Here!][1]  | Python-based game | [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | Python, Pygame, Tiled, Pygame GUI |
+[MugBook][2] | A simple Facebook clone | [![](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Ruby, Ruby on Rails, Devise, RSpec, Postgres /w ActiveRecord, HTML5, CSS |
+|   |   |   |Javascript, Jest             |
 
 *All source code available on Github: [https://github.com/helloecho12345]
 
@@ -81,5 +78,8 @@ Frequently used pairing in order to problemsolve efficiently, requiring teamwork
 - Proficient on the piano and violin - (trying! to) learn ukelele and guitar
 - Been on an archaeology dig in the Bahamas
 - Travelled throughout Europe, Asia, and US
-- Have an extensive cookbook collection
+- FOOD - restaurants and cookbooks
 - Photography
+
+[1]: https://github.com/helloecho12345/Im-a-coder-get-me-out-of-here
+[2]: https://github.com/helloecho12345/acebook-mugbook
