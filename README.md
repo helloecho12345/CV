@@ -50,7 +50,7 @@ _Research Associate_
 
 #### Makers Academy
 
-Frequently used pairing in order to problemsolve efficiently, requiring teamwork and communication.
+Frequently used pairing in order to problem-solve efficiently, requiring teamwork and communication.
 
 - Languages: Ruby, Javascript, HTML & CSS, Python
 
