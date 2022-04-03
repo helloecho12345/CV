@@ -8,10 +8,10 @@ Graduate of Makers Academy looking for a fun, fulfilling, supportive junior deve
 - **Adaptable** - New environments, new languages, new teams, new challenges. I have worked with various levels of stakeholders from Chief Executives to nurses to admins, as well as various backgrounds from architects to research professors.
 - **Creative** - Coming from a hard science and social science background, with interests in the arts, I have learned to be creative with my problem-solving.
 - **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
-- **Attention to detail** - 
-- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
-- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
-- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+- **Attention to detail** - From presentations to missing semi-colons, the details of a project can speak volumes or with code, possibly not at all.
+- **Enthusiastic** - I am highly motivated, and unafraid of challenge. The start of a new project is always fun and working through the problems so satisfying.
+- **Team-player** - I've had to work with team members from all sorts of backgrounds and working collaboratively towards a shared goal drives quicker success.
+- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline, focus and commitment.
 
 ***
 
