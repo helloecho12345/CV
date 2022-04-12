@@ -78,7 +78,7 @@ Frequently used pairing in order to problem-solve efficiently, requiring teamwor
 - Proficient on the piano and violin - (trying! to) learn ukelele and guitar
 - Been on an archaeology dig in the Bahamas
 - Travelled throughout Europe, Asia, and US
-- FOOD - restaurants and cookbooks
+- FOODIE
 - Photography
 
 [1]: https://github.com/helloecho12345/Im-a-coder-get-me-out-of-here
