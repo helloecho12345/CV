@@ -43,7 +43,7 @@ _Consultant_
 **Integrating Medicine and Public Health, University of California, San Francisco (UCSF)**
 _Research Associate_
 
-- Research support on various health initiatves throughout the state of California
+- Research support on various health initiatives throughout the state of California
 
 
 ## Education
