@@ -1,6 +1,6 @@
 ## Esther Cho
 
-Graduate of Makers Academy looking for a fun, fulfilling, supportive junior developer role
+Enthusiastic and collaborative graduate of Makers Academy looking for a fun, fulfilling, supportive junior developer role
 
 ### <a name="skills">Skills</a>
 
