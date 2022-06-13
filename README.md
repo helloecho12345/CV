@@ -73,8 +73,31 @@ Frequently used pairing in order to problem-solve efficiently, requiring teamwor
 - BA Molecular and Cell Biology (Neurobiology)
 
 
-## Hobbies / Interests
+## Interests
 
+As a career changer and new to the tech industry, I'm keen to learn and absorb what I can. I've been exploring the vast reaches of tech and have used conferences as a way to network, connect, and learn:
+
+* [Developers Week Conference Europe 2022][4]
+* [Women in Tech Global Conference 2022][5]
+* [Codeland 2022][13]
+
+I recently attended my first hackathon!
+
+* [Athena Hackathon 2022][3]
+
+I'm also reaching out to and joining organisations to help promote training in tech and women in tech:
+
+* [Showcode][7]
+* [Women Who Code London][6]
+* [Cambridge Python User Group (CamPUG)][8]
+* [London Programming Languages Meetup Group][9]
+* [Pyladies London][10]
+* [Microsoft Reactor London][11]
+* [BBC Tech Meetup][12]
+
+So many great organizations and events - wish I had time for them all!
+
+## Hobbies
 - Proficient on the piano and violin - (trying! to) learn ukelele and guitar
 - Been on an archaeology dig in the Bahamas
 - Travelled throughout Europe, Asia, and US
@@ -83,3 +106,13 @@ Frequently used pairing in order to problem-solve efficiently, requiring teamwor
 
 [1]: https://github.com/helloecho12345/Im-a-coder-get-me-out-of-here
 [2]: https://github.com/helloecho12345/acebook-mugbook
+[3]: https://www.showcode.io/athena-hack-2022/?utm_medium=schedulesocial
+[4]: https://www.developerweek.com/europe/conference/agenda/
+[5]: https://www.womentech.net/en-us/women-tech-conference
+[6]: https://www.womenwhocode.com/london
+[7]: https://www.showcode.io/
+[8]: https://www.meetup.com/CamPUG/
+[9]: https://www.meetup.com/london-programming-languages-meetup-group/
+[10]: https://pyladies.com/
+[11]: https://developer.microsoft.com/en-us/reactor/
+[12]: https://www.bbc.co.uk/programmes/articles/4BCZv12wbBYcsyKMbpyT574/bbc-tech-meetup
