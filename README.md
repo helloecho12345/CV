@@ -31,7 +31,7 @@ Project | Description | Code/Demo Links | Tech/tools |
 **Record Currency Management**
 _Junior Data Engineer_
 
-- Frontend development of new reporting portal for internal and external users
+- ETL pipeline and Frontend development of new reporting portal for internal and external users
 - Azure stack : Azure Data Factory, SQL Server, Azure DevOps
 
 **Family** 
