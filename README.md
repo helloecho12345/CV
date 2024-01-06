@@ -28,6 +28,12 @@ Project | Description | Code/Demo Links | Tech/tools |
 
 ## Work Experience
 
+**Record Currency Management**
+_Junior Data Engineer_
+
+- Frontend development of new reporting portal for internal and external users
+- Azure stack : Azure Data Factory, SQL Server, Azure DevOps
+
 **Family** 
 _Domestic Engineer / Mom_
 
