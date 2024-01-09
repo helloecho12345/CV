@@ -1,6 +1,6 @@
 ## Esther Cho
 
-Enthusiastic and collaborative graduate of Makers Academy looking for a fun, fulfilling, supportive junior developer role
+Enthusiastic and collaborative graduate of Makers Academy looking for a fulfilling, supportive, and engaging junior developer role
 
 ### <a name="skills">Skills</a>
 
@@ -83,23 +83,30 @@ Frequently used pairing in order to problem-solve efficiently, requiring teamwor
 
 As a career changer and new to the tech industry, I'm keen to learn and absorb what I can. I've been exploring the vast reaches of tech and have used conferences as a way to network, connect, and learn:
 
+
+* Big Data London
+* Uncodebar
+* Microsoft Build
 * [Developers Week Conference Europe 2022][4]
 * [Women in Tech Global Conference 2022][5]
 * [Codeland 2022][13]
 
-I recently attended my first hackathon!
+I attended my first hackathon!
 
 * [Athena Hackathon 2022][3]
 
-I'm also reaching out to and joining organisations to help promote training in tech and women in tech:
+I've been joining organisations and meetups to build my knowledge base and meet fellow developers:
 
+* [Data Engineers London][14]
+* [Women in Data and AI][15]
 * [Showcode][7]
 * [Women Who Code London][6]
-* [Cambridge Python User Group (CamPUG)][8]
-* [London Programming Languages Meetup Group][9]
+* [GDG London][8]
+* [PyData London][9]
 * [Pyladies London][10]
 * [Microsoft Reactor London][11]
 * [BBC Tech Meetup][12]
+* [CodeBar][16]
 
 So many great organizations and events - wish I had time for them all!
 
@@ -117,9 +124,12 @@ So many great organizations and events - wish I had time for them all!
 [5]: https://www.womentech.net/en-us/women-tech-conference
 [6]: https://www.womenwhocode.com/london
 [7]: https://www.showcode.io/
-[8]: https://www.meetup.com/CamPUG/
-[9]: https://www.meetup.com/london-programming-languages-meetup-group/
+[8]: https://gdg.community.dev/gdg-london/
+[9]: https://london.pydata.org
 [10]: https://pyladies.com/
 [11]: https://developer.microsoft.com/en-us/reactor/
 [12]: https://www.bbc.co.uk/programmes/articles/4BCZv12wbBYcsyKMbpyT574/bbc-tech-meetup
 [13]: https://codelandconf.com/
+[14]: https://www.meetup.com/data-engineers-london/
+[15]: https://www.meetup.com/london-women-data-ai/
+[16]: https://codebar.io/
