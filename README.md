@@ -1,17 +1,17 @@
 ## Esther Cho
 
-Enthusiastic and collaborative graduate of Makers Academy looking for a fulfilling, supportive, and engaging junior developer role
+Enthusiastic and collaborative data engineer looking for a fulfilling, supportive, and engaging role
 
 ### <a name="skills">Skills</a>
 
-- **Quick Learner** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in Python and Pygame with no prior experience.
+- **Quick Learner** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively seek out challenges, including producing our two week final project in Python and Pygame with no prior experience or attending workshops with new technologies that I'm eager to work with and learn more about.
 - **Adaptable** - New environments, new languages, new teams, new challenges. I have worked with various levels of stakeholders from Chief Executives to nurses to admins, as well as various backgrounds from architects to research professors. I'm able to work within limited resources, be it people or material resources.
 - **Creative** - Coming from a hard science and social science background, with interests in the arts, I have learned to be creative with my problem-solving and always try to consider different perspectives of a problem.
-- **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship. I try to attend as many learning events as I can to learn about how tech can be applied in different situations.
+- **Inquisitive** - I love learning and my experience with various bootcamps and learning platforms has only made me more committed to exploring development and code craftsmanship. I try to attend as many learning events as I can to learn about how tech can be applied in different situations.
 - **Attention to detail** - From presentations to missing semi-colons, I can find that random 's' if I have to.
 - **Enthusiastic** - I am highly motivated, and unafraid of challenge. I love the ideation process of a project and dreaming of what can be. 
-- **Team-player** - I've had to work with team members from all sorts of backgrounds and working collaboratively towards a shared goal drives quicker success. Having recently attended a hackathon, our team attempted to use a framework with limited knowledge of it, and although the project needs further work, the enthusiasm of each team member helped us work together with agility.
-- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline, focus and commitment.
+- **Team-player** - I've had to work with team members from all sorts of backgrounds and working collaboratively towards a shared goal drives quicker success. On our final team project, as well as at a hackathon, my teams attempted to use a framework with limited knowledge of it, and although the project needs further work, the enthusiasm of each team member helped us work together with agility.
+- **Commitment** - I completed 3 separate intensive bootcamps as a remote student. This required discipline, focus and commitment.
 
 ***
 
@@ -27,6 +27,12 @@ Project | Description | Code/Demo Links | Tech/tools |
 *All source code available on Github: [https://github.com/helloecho12345]
 
 ## Work Experience
+
+**Thales**
+_Data Engineer Apprentice_
+
+- ETL pipeline development and validation
+- Oracle Databases, SQL Developer
 
 **Record Currency Management**
 _Junior Data Engineer_
@@ -54,7 +60,25 @@ _Research Associate_
 
 ## Education
 
-#### Makers Academy
+#### Makers Academy - Data Engineering Programme
+
+- Python, SQL, PySpark
+
+- AWS, EC2, Amazon Redshift, PostgreSQL
+
+- Prometheus, Grafana
+
+- Great Expectations
+
+- Principles: Data Modelling, Data Normalisation, ETL / ELT
+
+
+#### LeWagon - Data Analytics Programme
+
+Google Big Query, GTM, Looker, Power BI
+
+
+#### Makers Academy - Full Stack Software Development Programme
 
 Frequently used pairing in order to problem-solve efficiently, requiring teamwork and communication.
 
