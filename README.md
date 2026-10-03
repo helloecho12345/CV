@@ -32,7 +32,7 @@ Project | Description | Code/Demo Links | Tech/tools |
 _Data Engineer Apprentice_
 
 - ETL pipeline development and validation
-- Oracle Databases, SQL Developer
+- Oracle Databases, IBM DataStage, SQL Developer, PL/SQL, Python
 
 **Record Currency Management**
 _Junior Data Engineer_
